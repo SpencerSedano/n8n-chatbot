@@ -1,0 +1,193 @@
+{
+  "hotel": {
+    "name": "Taichung Harbor Hotel",
+    "tel": "+886-4-2656-8888",
+    "fax": "+886-4-2656-8899",
+    "address": "No. 388, Sec. 2, Dazhi Rd., Wuqi Dist., Taichung City 435, Taiwan",
+    "about_us": {
+      "brand": "The ways of comfort, treating with heart.",
+      "description": "Wuqi is a coastal suburban district in Taichung with a beautiful origin. Its original name was Wucha but literati and scholars who frequented the place beautified the name and changed it into Wuqi, literally “to rest under the Wu-tong (Chinese Parasol) tree”. It is derived from a line of a Chinese poem that goes like this: “And the phoenix will rest on nothing but the Wu-tong tree”. Situated in Wuqi, Taichung Harbor Hotel features 200 elegant rooms. It is the first international tourist and business hotel at the central Taiwan coastline with a simple and stylish design. Refresh your body and mind in our comfortable and relaxing environment. Whether on business travel or on vacation, our staff is eager to welcome all of our guests. Indulge in our tasty fusion cuisine made with the highest standards. Our multifunctional banquet halls and conference rooms are the best choice for your conferences and business travels. Stay active in our well-equipped fitness center, luxuriate in our hotel spa or simply have a good time in the bar and find fine Taiwanese quality goods in our hotel shop."
+    },
+    "transportation": {
+      "by_bus": {
+        "Geya Bus": ["306", "306W", "306E", "306area1", "306area2", "310"],
+        "Taichung Bus": ["307"],
+        "Fengyuan Bus": ["238"]
+      },
+      "by_car": {
+        "National Highway No. 4": "Get off at Qingshui Interchange towards Taichung Harbor, go straight to Taichung Harbor Bridge, turn left and go straight, turn right at Section 2 of Dazhi Road, you will arrive at Taichung Harbor Hotel.",
+        "National Highway No. 3": "Get off at Longjing or Shalu Interchange, then take the pier 61 and go down to Wuqi, then take the second section of Dazhi Road to arrive, about 15 minutes.",
+        "West Coast Expressway": "Go south at #240 and turn right (Second Section of Dazhi Road), go north at #241 and turn left (Wuqi)."
+      }
+    },
+    "rooms": [
+      {
+        "category": "Deluxe",
+        "name": "Superior Double Room",
+        "total_rooms": 27,
+        "adults_per_room": 2,
+        "avg_room_size_m2": 37,
+        "bed_size": "One bed（160*203）",
+        "price_NT": 8800,
+        "amenities": [
+          "Flat Screen LCD TV with English Programs",
+          "Free Wifi",
+          "Telephone",
+          "Refrigerator",
+          "Separate Bath & Shower",
+          "Welcome snacks",
+          "Flip-up safe",
+          "Aiello AI"
+        ]
+      },
+      {
+        "category": "Deluxe",
+        "name": "Superior Twin Room",
+        "total_rooms": 40,
+        "adults_per_room": 2,
+        "avg_room_size_m2": 37,
+        "bed_size": "Two beds (120*203)",
+        "price_NT": 8800,
+        "amenities": [
+          "Flat Screen LCD TV with English Programs",
+          "Free Wifi",
+          "Telephone",
+          "Refrigerator",
+          "Separate Bath & Shower",
+          "Welcome snacks",
+          "Flip-up safe",
+          "Aiello AI"
+        ]
+      },
+      {
+        "category": "Deluxe",
+        "name": "Deluxe Double Room",
+        "total_rooms": 83,
+        "adults_per_room": 2,
+        "avg_room_size_m2": 40,
+        "bed_size": "One bed（180*203）",
+        "price_NT": 9800,
+        "amenities": [
+          "Flat Screen LCD TV with English Programs",
+          "Free Wifi",
+          "Telephone",
+          "Refrigerator",
+          "Separate Bath & Shower",
+          "Welcome snacks",
+          "Flip-up safe",
+          "Aiello AI"
+        ]
+      },
+      {
+        "category": "Deluxe",
+        "name": "Deluxe Six Pax Family Room",
+        "total_rooms": 2,
+        "adults_per_room": 6,
+        "avg_room_size_m2": 46,
+        "bed_size": "2 medium beds160*203 / 2 small beds100*203",
+        "price_NT": 18800,
+        "amenities": [
+          "Flat Screen LCD TV with English Programs",
+          "Free Wifi",
+          "Telephone",
+          "Refrigerator",
+          "Separate Bath & Shower",
+          "Welcome snacks",
+          "Flip-up safe",
+          "Aiello AI"
+        ]
+      },
+      {
+        "category": "Family Room",
+        "name": "Family Quadruple Room",
+        "total_rooms": 33,
+        "adults_per_room": 4,
+        "avg_room_size_m2": 46,
+        "bed_size": "two beds (160*203)",
+        "price_NT": 12800,
+        "amenities": [
+          "Flat Screen LCD TV with English Programs",
+          "Free Wifi",
+          "Telephone",
+          "Refrigerator",
+          "Separate Bath & Shower",
+          "Welcome snacks",
+          "Flip-up safe",
+          "Aiello AI"
+        ]
+      },
+      {
+        "category": "Family Room",
+        "name": "Superior Family Room",
+        "total_rooms": 9,
+        "adults_per_room": 3,
+        "avg_room_size_m2": 46,
+        "bed_size": "one bed (160*203) / one bed (100*203)",
+        "price_NT": 10800,
+        "amenities": [
+          "Flat Screen LCD TV with English Programs",
+          "Free Wifi",
+          "Telephone",
+          "Refrigerator",
+          "Separate Bath & Shower",
+          "Welcome snacks",
+          "Flip-up safe",
+          "Aiello AI"
+        ]
+      },
+      {
+        "category": "Kid-Themed Room",
+        "name": "Kid-Themed Room",
+        "total_rooms": 1,
+        "adults_per_room": 4,
+        "avg_room_size_m2": 46,
+        "bed_size": "1 medium bed + 1 themed bunk bed",
+        "price_NT": 16800,
+        "amenities": [
+          "Flat Screen LCD TV with English Programs",
+          "Free Wifi",
+          "Telephone",
+          "Refrigerator",
+          "Separate Bath & Shower",
+          "Welcome snacks",
+          "Flip-up safe",
+          "Aiello AI",
+          "Sterilizer, bedrail, crib, bathtub, water scoop, milk warmer (appointment required)"
+        ]
+      },
+      {
+        "category": "Suite",
+        "name": "Premier Suite",
+        "total_rooms": 1,
+        "adults_per_room": 4,
+        "avg_room_size_m2": 116,
+        "bed_size": "2 beds (180*203)",
+        "price_NT": 58000,
+        "amenities": [
+          "Flat Screen LCD TV with English Programs",
+          "Free Wifi",
+          "Telephone",
+          "Refrigerator",
+          "Separate Bath & Shower",
+          "Welcome snacks",
+          "Flip-up safe",
+          "Aiello AI"
+        ]
+      }
+    ],
+    "extra_policies": {
+      "extra_person_fee": "NT$350 (excluded breakfast) / person",
+      "free_facilities": [
+        "FUN WORLD",
+        "Switch Gaming Zone",
+        "Board game rentals",
+        "Fitness center",
+        "Sauna"
+      ],
+      "bed_brand": "Slumberland",
+      "bathroom_brand": "TOTO (including shower toilet)",
+      "rental_items_note": "Various complimentary rental items are available. For details, please inquire at the 1F counter.",
+      "image_note": "Images are for reference only and rooms shall be offered based on the actual available room type."
+    }
+  }
+}
